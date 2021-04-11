@@ -1,7 +1,7 @@
-# NamuIsTree
+# 🌳 NamuIsTree 🌳
 
 ---
-* Projects
+* 😊 Projects 😊
   - MoonTomi Project (주 개발 기간 : 2020.12.24 ~ 2021.01.25, 서비스 : 2021.01.25 ~ )
     + [Demo Project](http://moontomi.duckdns.org) (Closed)
       + Web : https://github.com/NamuIsTree/MoonTomi
@@ -15,7 +15,7 @@
       + Web : https://github.com/NamuIsTree/Slashing_web
       + API : https://github.com/NamuIsTree/Slashing_api
 ---
-* Competitive Programming
+* 💻 Competitive Programming 💻
   - 2020 Summer SUAPC Div.1 2위 (talsogang) : https://icpc-sinchon.github.io/suapc
   - 2020 ACM-ICPC Seoul Regional 본선 16위 with ICPC rule (GrayWater) : https://icpc.global/regionals/finder/Seoul-2020/standings
   - 2020 Sogang Programming Contest 출제

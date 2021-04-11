@@ -17,7 +17,14 @@
 ---
 * Competitive Programming
   - 2020 Summer SUAPC Div.1 2위 (talsogang) : https://icpc-sinchon.github.io/suapc
-  - 2020 ICPC Seoul Regional 본선 16위 with ICPC rule (GrayWater) : https://icpc.global/regionals/finder/Seoul-2020/standings
+  - 2020 ACM-ICPC Seoul Regional 본선 16위 with ICPC rule (GrayWater) : https://icpc.global/regionals/finder/Seoul-2020/standings
+  - 2020 Sogang Programming Contest 출제
+    + [Champion B](https://www.acmicpc.net/problem/20292)
+    + [Champion D](https://www.acmicpc.net/problem/20294)
+  - 2021 ICPC Sinchon Winter Algorithm Camp Contest 출제 
+    + [Intermediate B](https://www.acmicpc.net/problem/20928)
+    + [Intermediate G](https://www.acmicpc.net/problem/20933)
+    + [Intermediate H](https://www.acmicpc.net/problem/20934)
   - [Codeforces Rating 1711](https://codeforces.com/profile/NamuTree)
   - Beakjoon Online Judge (Solved.ac) : https://www.acmicpc.net/user/woonikim
 

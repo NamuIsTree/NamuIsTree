@@ -19,7 +19,7 @@
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
 
-  - S/ing Project ( 2020.03.26 ~ )
+  - S/ing Project ( 2021.03.26 ~ )
 
     <p align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp

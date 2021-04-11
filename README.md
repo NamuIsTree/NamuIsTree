@@ -3,15 +3,15 @@
 ---
 * Projects
   - MoonTomi Project (주 개발 기간 : 2020.12.24 ~ 2021.01.25, 서비스 : 2021.01.25 ~ )
-    + [Demo Project] (http://moontomi.duckdns.org)
+    + [ Demo Project ] (http://moontomi.duckdns.org)
       + Web : https://github.com/NamuIsTree/MoonTomi
       + API : https://github.com/NamuIsTree/Musicweb_upload
-    + [Main Project] (http://moontomi.ga) : https://github.com/NamuIsTree/Moontomi_v2.0
+    + [ Main Project ] (http://moontomi.ga) : https://github.com/NamuIsTree/Moontomi_v2.0
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
 
   - S/ing Project (주 개발 기간 : 2020.03.26 ~ )
-    + [Demo Project] (http://slashing.duckdns.org)
+    + [ Demo Project ] (http://slashing.duckdns.org)
       + Web : https://github.com/NamuIsTree/Slashing_web
       + API : https://github.com/NamuIsTree/Slashing_api
 ---

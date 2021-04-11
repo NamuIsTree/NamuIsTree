@@ -18,7 +18,7 @@
 * 💻 Competitive Programming 💻
   - 2020 Summer SUAPC Div.1 2위 (talsogang)
     + [Standings](https://icpc-sinchon.github.io/suapc)
-  - 2020 ACM-ICPC Seoul Regional 본선 16위 with ICPC rule (GrayWater)
+  - 2020 ICPC Asia Seoul Regional Contest 본선 16위 with ICPC rule (GrayWater)
     + [Standings](https://icpc.global/regionals/finder/Seoul-2020/standings)
   - 2020 Sogang Programming Contest 출제
     + [Champion B](https://www.acmicpc.net/problem/20292)

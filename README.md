@@ -1,7 +1,7 @@
 # 🌳 NamuIsTree 🌳
 
-* 😊 Projects 😊
-  - MoonTomi Project ( 2020.12.24 ~ )
+* 😊 **Projects** 😊
+  - **MoonTomi Project ( 2020.12.24 ~ )**
     
     <p align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
@@ -20,7 +20,7 @@
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
 
-  - S/ing Project ( 2021.03.26 ~ )
+  - **S/ing Project ( 2021.03.26 ~ )**
 
     <p align="center">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
@@ -33,7 +33,7 @@
       + Web : https://github.com/NamuIsTree/Slashing_web
       + API : https://github.com/NamuIsTree/Slashing_api
 ---
-* 💻 Competitive Programming 💻
+* 💻 **Competitive Programming** 💻
   
   <p align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp

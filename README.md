@@ -22,5 +22,6 @@
   - Beakjoon Online Judge (Solved.ac)  
 
 <center>  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woonikim)](https://solved.ac/woonikim/)</center>
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woonikim)](https://solved.ac/woonikim/) 
+</center>
 ---

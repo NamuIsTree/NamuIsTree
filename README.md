@@ -51,9 +51,9 @@
     + [Intermediate G](https://www.acmicpc.net/problem/20933)
     + [Intermediate H](https://www.acmicpc.net/problem/20934)
   - Codeforces Expert (1711 Rated)
-    + [Profile](https://codeforces.com/profile/NamuTree)
+    + [Codeforces Profile](https://codeforces.com/profile/NamuTree)
   - Solved 864 problems at Beakjoon Online Judge (Solved.ac)
-    + [Profile](https://www.acmicpc.net/user/woonikim)
+    + [BOJ Profile](https://www.acmicpc.net/user/woonikim)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woonikim)](https://solved.ac/woonikim/) 
 

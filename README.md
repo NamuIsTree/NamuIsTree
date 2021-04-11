@@ -53,7 +53,7 @@
     + [Intermediate H](https://www.acmicpc.net/problem/20934)
   - Codeforces Expert (1711 Rated)
     + [Codeforces Profile](https://codeforces.com/profile/NamuTree)
-  - Beakjoon Online Judge (solved.ac)
+  - Baekjoon Online Judge (solved.ac)
     + [BOJ Profile](https://www.acmicpc.net/user/woonikim)
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=woonikim)](https://solved.ac/woonikim/) 

@@ -1,6 +1,7 @@
 # 🌳 NamuIsTree 🌳
 
-* 😊 **Projects** 😊
+<h2 align="center"> 😊 Projects 😊 </h2>
+
   - **MoonTomi Project ( 2020.12.24 ~ )**
     
     <p align="center">
@@ -33,7 +34,8 @@
       + Web : https://github.com/NamuIsTree/Slashing_web
       + API : https://github.com/NamuIsTree/Slashing_api
 ---
-* 💻 **Competitive Programming** 💻
+
+<h2 align="center"> 💻 Competitive Programming 💻 </h2>
   
   <p align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp

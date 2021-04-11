@@ -3,8 +3,9 @@
 <h3 align="center" style="border-bottom: none;"> 😊 Projects 😊 </h2>
 
   - **MoonTomi Project ( 2020.12.24 ~ )**
-    
+  
     <p align="center">
+      <img align="center" src="./images/moontomi.jpg" width="220px" alt="moontomi_logo" /> <br/> <br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a> &nbsp
@@ -24,6 +25,7 @@
   - **S/ing Project ( 2021.03.26 ~ )**
 
     <p align="center">
+      <img align="center" src="./images/s_ing.jpg" width="120px" alt="s/ing_logo" /> <br/> <br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> &nbsp

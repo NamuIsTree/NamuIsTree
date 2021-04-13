@@ -3,6 +3,7 @@
 <h3 align="center" style="border-bottom: none;"> 😊 Projects 😊 </h2>
 
   - **MoonTomi Project ( 2020.12.24 ~ )**
+    * 개인 음악 평론회를 지원하는 서비스들을 제공합니다.
   
     <p align="center">
       <img align="center" src="./images/moontomi.jpg" width="220px" alt="moontomi_logo" /> <br/> <br/>
@@ -23,7 +24,8 @@
       + API : https://github.com/NamuIsTree/MoonTomi_API
 
   - **S/ing Project ( 2021.03.26 ~ )**
-
+    * 유투브 동영상에 대한 다구간 반복 기능을 제공하여, 노래를 따라 부르기 위해 연습할 수 있는 서비스를 만듭니다.
+    
     <p align="center">
       <img align="center" src="./images/s_ing.jpg" width="120px" alt="s/ing_logo" /> <br/> <br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp

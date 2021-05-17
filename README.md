@@ -36,7 +36,8 @@
 
     + [Demo Project](http://slashing.duckdns.org)
       + Web : https://github.com/NamuIsTree/Slashing_web
-      + API : https://github.com/NamuIsTree/Slashing_api
+      + API (for spleeter) : https://github.com/NamuIsTree/Slashing_api
+      + API (for mongoDB)  : https://github.com/NamuIsTree/Slashing_db_api
 ---
 
 <h3 align="center"> 💻 Competitive Programming 💻 </h2>

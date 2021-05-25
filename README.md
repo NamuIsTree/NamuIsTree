@@ -27,7 +27,7 @@
     * 유투브 동영상에 대한 다구간 반복 기능을 제공하여, 노래를 따라 부르기 위해 연습할 수 있는 서비스를 만듭니다.
     
     <p align="center">
-      <img align="center" src="./images/s_ing_2.jpg" width="120px" alt="s/ing_logo" /> <br/> <br/>
+      <img align="center" src="./images/s_ing_2.jpg" width="200px" alt="s/ing_logo" /> <br/> <br/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/></a> &nbsp
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white"/></a> &nbsp

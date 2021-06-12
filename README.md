@@ -23,7 +23,7 @@
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
 
-  - **S/ing Project ( 2021.03.26 ~ 개발 중)**
+  - **S/ing Project ( 2021.03.26 ~ 2021.06.11 )**
     * 유투브 동영상에 대한 다구간 반복 기능을 제공하여, 노래를 따라 부르기 위해 연습할 수 있는 서비스를 만듭니다.
     
     <p align="center">

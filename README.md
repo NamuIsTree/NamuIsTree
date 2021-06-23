@@ -16,10 +16,10 @@
       <img src="https://img.shields.io/badge/Amazon lightsail-FF9900?style=flat-square"/></a> &nbsp
     </p>
 
-    + [Demo Project](http://moontomi.duckdns.org) (Closed)
+    + Demo Project (Closed)
       + Web : https://github.com/NamuIsTree/MoonTomi
       + API : https://github.com/NamuIsTree/Musicweb_upload
-    + [Main Project](http://moontomi.ga)
+    + [Main Project](http://moontomi.ga) || [Another URL](http://moontomi.duckdns.org)
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
 

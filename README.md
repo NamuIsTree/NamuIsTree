@@ -35,7 +35,7 @@
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp
     </p>
 
-    + [Demo Project](http://slashing.duckdns.org) (Closed)
+    + Demo Project (Closed)
       + Web : https://github.com/NamuIsTree/Slashing_web
       + API (for spleeter ... server shutdowned) : https://github.com/NamuIsTree/Slashing_api
       + API (for mongoDB)  : https://github.com/NamuIsTree/Slashing_db_api

@@ -1,6 +1,6 @@
 # 🌳 NamuIsTree 🌳
 
-<h3 align="center" style="border-bottom: none;"> 😊 Projects 😊 </h2>
+<h3 align="center" style="border-bottom: none;"> 😊 Projects 😊 </h3>
 
   - **MoonTomi Project ( 2020.12.24 ~ 서비스 중)**
     * 개인 음악 평론회를 지원하는 서비스들을 제공합니다.
@@ -41,7 +41,7 @@
       + API (for mongoDB)  : https://github.com/NamuIsTree/Slashing_db_api
 ---
 
-<h3 align="center"> 💻 Competitive Programming 💻 </h2>
+<h3 align="center"> 💻 Competitive Programming 💻 </h3>
   
   <p align="center">
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp

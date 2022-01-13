@@ -19,7 +19,7 @@
     + Demo Project (Closed)
       + Web : https://github.com/NamuIsTree/MoonTomi
       + API : https://github.com/NamuIsTree/Musicweb_upload
-    + [Main Project](http://moontomi.ga) ([들어가지지 않으면 여기로](http://moontomi.duckdns.org))
+    + [Main Project](http://moontomi.duckdns.org))
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
 

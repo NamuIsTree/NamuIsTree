@@ -2,7 +2,7 @@
 
 <h3 align="center" style="border-bottom: none;"> 😊 Projects 😊 </h3>
 
-  - **MoonTomi Project ( 2020.12.24 ~ 2023.06.28 서비스 종료)**
+  - **MoonTomi 2.0 Project ( 2020.12.24 ~ 2023.06.28 서비스 종료)**
     * 개인 음악 평론회를 지원하는 서비스들을 제공합니다.
   
     <p align="center">
@@ -23,7 +23,8 @@
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
      
-    + [MOONTOMI 3.0](https://moontomi.com) 서비스 중
+    #### MoonTomi 3.0 Project ( 2023-04-22 ~ 서비스 중)
+    - [MOONTOMI 3.0](https://moontomi.com) 서비스 중
 
   - **S/ing Project ( 2021.03.26 ~ 2021.06.11 서비스 종료)**
     * 유투브 동영상에 대한 다구간 반복 기능을 제공하여, 노래를 따라 부르기 위해 연습할 수 있는 서비스를 만듭니다.

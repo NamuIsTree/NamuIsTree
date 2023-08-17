@@ -9,6 +9,7 @@
       <img align="center" src="https://moontomi.netlify.app/icons/icon-192x192.png" width="100" alt="moontomi_logo" /> <br/> <br/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/> &nbsp
       <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=flat-square&logo=netlify&logoColor=white"/> &nbsp
+      <img src="https://img.shields.io/badge/PWA-5A0FC8.svg?style=flat-square&logo=PWA&logoColor=white"/> &nbsp
       <img src="https://img.shields.io/badge/NginX-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/> &nbsp
       <img src="https://img.shields.io/badge/Gunicorn-499848.svg?&style=flat-square&logo=Gunicorn&logoColor=white"/> &nbsp
       <img src="https://img.shields.io/badge/FastAPI-009688.svg?&style=flat-square&logo=fastapi&logoColor=white"/> &nbsp

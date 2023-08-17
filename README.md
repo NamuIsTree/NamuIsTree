@@ -2,6 +2,19 @@
 
 <h3 align="center" style="border-bottom: none;"> 😊 Projects 😊 </h3>
 
+  - **MoonTomi 3.0 Project ( 2023-04-22 ~ 서비스 중)**
+    <p align="center">
+      <img align="center" src="https://moontomi.netlify.app/icons/icon-192x192.png" width="100" alt="moontomi_logo" /> <br/> <br/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/> &nbsp
+      <img src="https://img.shields.io/badge/netlify-00C7B7.svg?style=flat-square&logo=netlify&logoColor=white"/> &nbsp
+      <img src="https://img.shields.io/badge/NginX-%23009639.svg?&style=flat-square&logo=nginx&logoColor=white"/> &nbsp
+      <img src="https://img.shields.io/badge/Gunicorn-499848.svg?&style=flat-square&logo=Gunicorn&logoColor=white"/> &nbsp
+      <img src="https://img.shields.io/badge/FastAPI-009688.svg?&style=flat-square&logo=fastapi&logoColor=white"/> &nbsp
+      <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
+      <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp
+    </p>
+    - https://moontomi.com
+
   - **MoonTomi 2.0 Project ( 2020.12.24 ~ 2023.06.28 서비스 종료)**
     * 개인 음악 평론회를 지원하는 서비스들을 제공합니다.
   
@@ -19,12 +32,9 @@
     + Demo Project (Closed)
       + Web : https://github.com/NamuIsTree/MoonTomi
       + API : https://github.com/NamuIsTree/Musicweb_upload
-    + [Main Project](http://moontomi.duckdns.org) - Closed
+    + Main Project (Closed)
       + Web : https://github.com/NamuIsTree/Moontomi_v2.0
       + API : https://github.com/NamuIsTree/MoonTomi_API
-     
-    #### MoonTomi 3.0 Project ( 2023-04-22 ~ 서비스 중)
-    - [MOONTOMI 3.0](https://moontomi.com) 서비스 중
 
   - **S/ing Project ( 2021.03.26 ~ 2021.06.11 서비스 종료)**
     * 유투브 동영상에 대한 다구간 반복 기능을 제공하여, 노래를 따라 부르기 위해 연습할 수 있는 서비스를 만듭니다.

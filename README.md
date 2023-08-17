@@ -13,7 +13,10 @@
       <img src="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/> &nbsp
       <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/> &nbsp
     </p>
-    - https://moontomi.com
+    + https://moontomi.com
+      + moontomi-web: https://github.com/NamuIsTree/moontomi-web
+      + moontomi-server: private repository
+    
 
   - **MoonTomi 2.0 Project ( 2020.12.24 ~ 2023.06.28 서비스 종료)**
     * 개인 음악 평론회를 지원하는 서비스들을 제공합니다.

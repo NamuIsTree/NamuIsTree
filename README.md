@@ -3,6 +3,8 @@
 <h3 align="center" style="border-bottom: none;"> 😊 Projects 😊 </h3>
 
   - **MoonTomi 3.0 Project ( 2023-04-22 ~ 서비스 중)**
+    * MoonTomi 2.0 의 구조적 문제들을 개선하고, 보다 확장적인 기능들을 제공합니다.
+      
     <p align="center">
       <img align="center" src="https://moontomi.netlify.app/icons/icon-192x192.png" width="100" alt="moontomi_logo" /> <br/> <br/>
       <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat-square&logo=vue.js&logoColor=white"/> &nbsp
